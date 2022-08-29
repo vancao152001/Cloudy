@@ -7,11 +7,17 @@
       text-decoration: none;
       text-align: center;
       text-transform: uppercase;
-
 }
 .pa1 {
     font-size: 20px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    width:200px;
+    height:100px; 
+    margin-left: 70px  ;
+    marfin-right: 300px;
+    text-align:center;
+
+
 }
 .hero image {
     align-content: center;
@@ -26,6 +32,7 @@
     margin-top: -100px;
     margin-left: -100px;   
     border:10px;
+    float:left;
 }
 
 
@@ -63,19 +70,26 @@
     padding:10px;
     padding-left: 10px;
     padding-top: 10px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:50px;
 
 }
 .form {
     padding:5px;
+    margin-left:50px;
 
 }
 .button1 {
     background-color: orange;
     text-align: center;
     align-content: center;
-    padding:8px;
-    position: absolute;
+    padding:10px;
     text-shadow: 5px;
+    margin-left:150px;
+    margin-bottom:80px;
+    margin-top:0px;
+
 }
 .footer1 {
       color:black;
@@ -85,6 +99,51 @@
       font-weight: 200;
       text-decoration: none; 
       border:20px;
+      
 
 }
+.footera{
+    margin-left: 100px;
+
+}
+
+#slider {
+    position: relative;
+    margin-top:86px;
+    padding-top:50%;
+    background: url(imgs/a.jpg) top center/ cover no-repeat;
+}
+.text-content {
+    text-align: center;
+    position: relative;
+    margin-left: 100px;
+
+
+}
+
+.text-heading{
+    color:blue;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+}
+
+.text-description{
+    color: blue;
+    text-align:center;
+    font-size:30px;
+    margin-bottom: 100px;
+}
+.anh1 {
+    float:right;
+}
+
+
+
+
+
+
+
 
